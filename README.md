@@ -5,7 +5,7 @@ NPM 6.14.6
 
 # Instrucciones
 
-1. Clonar proyecto ()
+1. Clonar proyecto (https://github.com/andresfelipe12345/prueba_Repo.git)
 2. Ejecutar comando "npm install" para instalar librerías
 3. Ejecutar comando "npm start"
 4. Navegar a http://localhost:3000/
