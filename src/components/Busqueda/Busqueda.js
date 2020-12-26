@@ -22,7 +22,7 @@ const Busqueda = () => {
     const [nombrePelicula, setNombrePelicula] = useState('');
     const [listaPeliculas, setListaPeliculas] = useState([]);
     const apiKey = '39eeec10';
-    const urlAPI = 'http://www.omdbapi.com/';
+    const urlAPI = 'https://www.omdbapi.com/';
 
     const buscarPelicula = async () => {
         setListaPeliculas([]);
