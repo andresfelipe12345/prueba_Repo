@@ -10,3 +10,6 @@ NPM 6.14.6
 3. Ejecutar comando "npm start"
 4. Navegar a http://localhost:3000/
 
+Ejecutar desde github pages:
+https://andresfelipe12345.github.io/prueba_Repo/
+
