@@ -81,7 +81,7 @@ const Pelicula = ({ pelicula }) => {
 
     const buscarDetallePelicula = async (idPelicula) => {
         const apiKey = '39eeec10';
-        const urlAPI = 'http://www.omdbapi.com/';
+        const urlAPI = 'https://www.omdbapi.com/';
         try {
             const resp = await fetch(`${urlAPI}?i=${idPelicula}&apikey=${apiKey}`);
             const data = await resp.json();
