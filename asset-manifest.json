@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/prueba_Repo/static/css/main.79cd1c7d.chunk.css",
+    "main.js": "/prueba_Repo/static/js/main.98f40882.chunk.js",
+    "main.js.map": "/prueba_Repo/static/js/main.98f40882.chunk.js.map",
+    "runtime-main.js": "/prueba_Repo/static/js/runtime-main.a573d4f4.js",
+    "runtime-main.js.map": "/prueba_Repo/static/js/runtime-main.a573d4f4.js.map",
+    "static/js/2.f8905dc2.chunk.js": "/prueba_Repo/static/js/2.f8905dc2.chunk.js",
+    "static/js/2.f8905dc2.chunk.js.map": "/prueba_Repo/static/js/2.f8905dc2.chunk.js.map",
+    "index.html": "/prueba_Repo/index.html",
+    "precache-manifest.b39cb3a5dc8d62b6f999c2e4513e7974.js": "/prueba_Repo/precache-manifest.b39cb3a5dc8d62b6f999c2e4513e7974.js",
+    "service-worker.js": "/prueba_Repo/service-worker.js",
+    "static/css/main.79cd1c7d.chunk.css.map": "/prueba_Repo/static/css/main.79cd1c7d.chunk.css.map",
+    "static/js/2.f8905dc2.chunk.js.LICENSE.txt": "/prueba_Repo/static/js/2.f8905dc2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a573d4f4.js",
+    "static/js/2.f8905dc2.chunk.js",
+    "static/css/main.79cd1c7d.chunk.css",
+    "static/js/main.98f40882.chunk.js"
+  ]
+}
