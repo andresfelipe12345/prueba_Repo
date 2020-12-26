@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/prueba_Repo/static/css/main.79cd1c7d.chunk.css",
-    "main.js": "/prueba_Repo/static/js/main.71a2e998.chunk.js",
-    "main.js.map": "/prueba_Repo/static/js/main.71a2e998.chunk.js.map",
+    "main.js": "/prueba_Repo/static/js/main.4a3f0c7b.chunk.js",
+    "main.js.map": "/prueba_Repo/static/js/main.4a3f0c7b.chunk.js.map",
     "runtime-main.js": "/prueba_Repo/static/js/runtime-main.a573d4f4.js",
     "runtime-main.js.map": "/prueba_Repo/static/js/runtime-main.a573d4f4.js.map",
     "static/js/2.f8905dc2.chunk.js": "/prueba_Repo/static/js/2.f8905dc2.chunk.js",
     "static/js/2.f8905dc2.chunk.js.map": "/prueba_Repo/static/js/2.f8905dc2.chunk.js.map",
     "index.html": "/prueba_Repo/index.html",
-    "precache-manifest.8824c52a63c3c757064cc39d81adf6df.js": "/prueba_Repo/precache-manifest.8824c52a63c3c757064cc39d81adf6df.js",
+    "precache-manifest.2a349c6716ff0ff0d5920c2396ab4274.js": "/prueba_Repo/precache-manifest.2a349c6716ff0ff0d5920c2396ab4274.js",
     "service-worker.js": "/prueba_Repo/service-worker.js",
     "static/css/main.79cd1c7d.chunk.css.map": "/prueba_Repo/static/css/main.79cd1c7d.chunk.css.map",
     "static/js/2.f8905dc2.chunk.js.LICENSE.txt": "/prueba_Repo/static/js/2.f8905dc2.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a573d4f4.js",
     "static/js/2.f8905dc2.chunk.js",
     "static/css/main.79cd1c7d.chunk.css",
-    "static/js/main.71a2e998.chunk.js"
+    "static/js/main.4a3f0c7b.chunk.js"
   ]
 }
